@@ -61,7 +61,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 #include <QtGui/QGuiApplication>
 
-// AyuGram includes
+// Bloodgram includes
 #include "ayu/features/filters/filters_controller.h"
 
 namespace {

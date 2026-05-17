@@ -34,7 +34,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 #include "mainwidget.h"
 #include "apiwrap.h"
 
-// AyuGram includes
+// Bloodgram includes
 #include "ayu/utils/telegram_helpers.h"
 
 

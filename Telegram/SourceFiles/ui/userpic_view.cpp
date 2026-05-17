@@ -11,7 +11,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 #include "ui/painter.h"
 #include "ui/image/image_prepare.h"
 
-// AyuGram includes
+// Bloodgram includes
 #include "ayu/ui/ayu_userpic.h"
 
 

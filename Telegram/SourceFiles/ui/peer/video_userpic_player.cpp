@@ -20,7 +20,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 #include "ui/painter.h"
 #include "styles/style_widgets.h"
 
-// AyuGram includes
+// Bloodgram includes
 #include "ayu/ui/ayu_userpic.h"
 
 

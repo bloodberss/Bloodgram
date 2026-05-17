@@ -27,7 +27,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 #include "window/window_session_controller.h"
 #include "styles/style_widgets.h"
 
-// AyuGram includes
+// Bloodgram includes
 #include "ayu/features/forward/ayu_forward.h"
 
 

@@ -1,11 +1,11 @@
 [Desktop Entry]
-Name=AyuGram Desktop
-Comment=Desktop version of AyuGram - ToS breaking Telegram client
-TryExec=AyuGram
-Exec=env DESKTOPINTEGRATION=1 AyuGram -- %U
-Icon=com.ayugram.desktop
+Name=Bloodgram Desktop
+Comment=Desktop version of Bloodgram - ToS breaking Telegram client
+TryExec=Bloodgram
+Exec=env DESKTOPINTEGRATION=1 Bloodgram -- %U
+Icon=com.bloodgram.desktop
 Terminal=false
-StartupWMClass=AyuGram
+StartupWMClass=Bloodgram
 Type=Application
 Categories=Chat;Network;InstantMessaging;Qt;
 MimeType=x-scheme-handler/tg;x-scheme-handler/tonsite;
@@ -17,6 +17,6 @@ X-GNOME-UsesNotifications=true
 X-GNOME-SingleWindow=true
 
 [Desktop Action quit]
-Exec=AyuGram -quit
-Name=Quit AyuGram
+Exec=Bloodgram -quit
+Name=Quit Bloodgram
 Icon=application-exit

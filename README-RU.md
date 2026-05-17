@@ -1,6 +1,6 @@
-# AyuGram
+# Bloodgram
 
-![AyuGram Лого](.github/AyuGram.png) ![AyuChan](.github/AyuChan.png)
+![Bloodgram Лого](.github/Bloodgram.png) ![AyuChan](.github/AyuChan.png)
 
 [ [English](README.md)  | Русский ]
 
@@ -15,7 +15,7 @@
 - Превью медиа и быстрая реакция при сильном нажатии на тачпад (macOS)
 - Улучшенный вид
 
-И многое другое. Посмотрите нашу [Документацию](https://docs.ayugram.one/desktop/) для более подробной информации.
+И многое другое. Посмотрите нашу [Документацию](https://docs.bloodgram.one/desktop/) для более подробной информации.
 
 <h3>
   <details>
@@ -23,7 +23,7 @@
     <table>
       <tr>
         <td><img src='.github/demos/demo1.png' width='268' alt='Preferences'></td>
-        <td><img src='.github/demos/demo2.png' width='268' alt='AyuGram Options'></td>
+        <td><img src='.github/demos/demo2.png' width='268' alt='Bloodgram Options'></td>
         <td><img src='.github/demos/demo3.png' width='268' alt='Message Filters'></td>
       </tr>
       <tr>
@@ -40,48 +40,48 @@
 
 #### Официальная версия
 
-Вы можете скачать готовый бинарный файл со вкладки [Releases](https://github.com/AyuGram/AyuGramDesktop/releases) или из
-[Телеграм канала](https://t.me/AyuGramReleases).
+Вы можете скачать готовый бинарный файл со вкладки [Releases](https://github.com/Bloodgram/BloodgramDesktop/releases) или из
+[Телеграм канала](https://t.me/BloodgramReleases).
 
 #### Winget
 
 ```bash
-winget install RadolynLabs.AyuGramDesktop
+winget install RadolynLabs.BloodgramDesktop
 ```
 
 #### Scoop
 
 ```bash
 scoop bucket add extras
-scoop install ayugram
+scoop install bloodgram
 ```
 
 #### Сборка вручную
 
-Следуйте [официальному руководству](https://github.com/AyuGram/AyuGramDesktop/blob/dev/docs/building-win-x64.md), если
-вы хотите собрать AyuGram сами.
+Следуйте [официальному руководству](https://github.com/Bloodgram/BloodgramDesktop/blob/dev/docs/building-win-x64.md), если
+вы хотите собрать Bloodgram сами.
 
 ### macOS
 
 #### Официальная версия
 
-Вы можете скачать подписанный пакет со вкладки [Releases](https://github.com/AyuGram/AyuGramDesktop/releases).
+Вы можете скачать подписанный пакет со вкладки [Releases](https://github.com/Bloodgram/BloodgramDesktop/releases).
 
 #### Homebrew
 
 ```bash
-brew install --cask ayugram
+brew install --cask bloodgram
 ```
 
 ### Arch Linux
 
 #### Из исходников (рекомендованный способ)
 
-Установите `ayugram-desktop` из [AUR](https://aur.archlinux.org/packages/ayugram-desktop).
+Установите `bloodgram-desktop` из [AUR](https://aur.archlinux.org/packages/bloodgram-desktop).
 
 #### Готовые бинарники
 
-Установите `ayugram-desktop-bin` из [AUR](https://aur.archlinux.org/packages/ayugram-desktop-bin).
+Установите `bloodgram-desktop-bin` из [AUR](https://aur.archlinux.org/packages/bloodgram-desktop-bin).
 
 Примечание: данный пакет собирается не нами.
 
@@ -89,40 +89,40 @@ brew install --cask ayugram
 
 #### Флейк (рекомендуется)
 
-Установите `ayugram-desktop` из [ndfined-crp/ayugram-desktop](https://github.com/ndfined-crp/ayugram-desktop)
+Установите `bloodgram-desktop` из [ndfined-crp/bloodgram-desktop](https://github.com/ndfined-crp/bloodgram-desktop)
 
 #### Nixpkgs
 
-Установите `ayugram-desktop` из [nixpkgs](https://search.nixos.org/packages?channel=unstable&show=ayugram-desktop)
+Установите `bloodgram-desktop` из [nixpkgs](https://search.nixos.org/packages?channel=unstable&show=bloodgram-desktop)
 
 ### ALT Linux
 
-[Sisyphus](https://packages.altlinux.org/en/sisyphus/srpms/ayugram-desktop/)
+[Sisyphus](https://packages.altlinux.org/en/sisyphus/srpms/bloodgram-desktop/)
 
 ### Gentoo Linux
 
-Инструкцию по установке можно найти в [этом репозитории](https://codeberg.org/OverLessArtem/ayugram-ebuild-gentoo).
+Инструкцию по установке можно найти в [этом репозитории](https://codeberg.org/OverLessArtem/bloodgram-ebuild-gentoo).
 
 ### Void Linux
-Инструкцию по установке можно найти в [этом репозитории](https://codeberg.org/OverLessArtem/ayugram-template-void)
+Инструкцию по установке можно найти в [этом репозитории](https://codeberg.org/OverLessArtem/bloodgram-template-void)
 
 ### EPM
 
-`epm play ayugram`
+`epm play bloodgram`
 
 ### Fedora
 
-Из репозитория [RPM Fusion](https://admin.rpmfusion.org/pkgdb/package/free/ayugram-desktop/).
+Из репозитория [RPM Fusion](https://admin.rpmfusion.org/pkgdb/package/free/bloodgram-desktop/).
 
 ```bash
-dnf install ayugram-desktop
+dnf install bloodgram-desktop
 ```
 
 ### Любой другой Линукс дистрибутив
 
-Flatpak: https://github.com/0FL01/AyuGramDesktop-flatpak
+Flatpak: https://github.com/0FL01/BloodgramDesktop-flatpak
 
-Или следуйте [официальному руководству](https://github.com/AyuGram/AyuGramDesktop/blob/dev/docs/building-linux.md).
+Или следуйте [официальному руководству](https://github.com/Bloodgram/BloodgramDesktop/blob/dev/docs/building-linux.md).
 
 ### Примечания для Windows
 
@@ -134,9 +134,9 @@ Flatpak: https://github.com/0FL01/AyuGramDesktop-flatpak
 
 ## Пожертвования
 
-Вам нравится использовать **AyuGram**? Оставьте нам чаевые!
+Вам нравится использовать **Bloodgram**? Оставьте нам чаевые!
 
-[Здесь доступные варианты.](https://docs.ayugram.one/donate/)
+[Здесь доступные варианты.](https://docs.bloodgram.one/donate/)
 
 ## Использованные материалы
 

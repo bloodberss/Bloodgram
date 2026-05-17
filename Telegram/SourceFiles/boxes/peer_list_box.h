@@ -85,11 +85,11 @@ public:
 
 		return _peer;
 	}
-	// AyuGram
+	// Bloodgram
 	void setPeer(not_null<PeerData*> peer) {
 		_peer = peer;
 	}
-	// AyuGram
+	// Bloodgram
 
 	[[nodiscard]] PeerListRowId id() const {
 		return _id;

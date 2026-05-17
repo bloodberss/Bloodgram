@@ -113,7 +113,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 #include "styles/style_credits.h"
 #include "styles/style_menu_icons.h"
 
-// AyuGram includes
+// Bloodgram includes
 #include "ayu/ayu_settings.h"
 #include "history/history_item_components.h"
 

@@ -70,7 +70,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 #include "apiwrap.h"
 #include "ui/text/format_values.h" // Ui::FormatPhone
 
-// AyuGram includes
+// Bloodgram includes
 #include "ayu/ayu_settings.h"
 #include "ayu/ayu_worker.h"
 
@@ -993,7 +993,7 @@ void Updates::updateOnline(crl::time lastNonIdleTime, bool gotOtherOffline) {
 		Core::App().checkAutoLock(lastNonIdleTime);
 	});
 
-	// AyuGram sendOnlinePackets
+	// Bloodgram sendOnlinePackets
 	const auto &ghost = AyuSettings::ghost(_session);
 	const auto& config = _session->serverConfig();
 	bool isOnlineOrig = Core::App().hasActiveWindow(&session());
